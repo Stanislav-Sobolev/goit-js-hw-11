@@ -1,67 +1,76 @@
 import './css/styles.css';
-import { fetchCountries } from './fetchCountries';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-let debounce = require('lodash.debounce');
+import axios from 'axios';
 
-const countryList = document.querySelector(".country-list");
-const countryInfo = document.querySelector(".country-info");
+let queryToFind = '';
+let pageData = 1;
 
-const DEBOUNCE_DELAY = 300;
-const input = document.querySelector('input#search-box');
+const form = document.querySelector('#search-form');
+const gallery = document.querySelector('.gallery');
+const loadMoreBtn = document.querySelector('.load-more')
 
-input.addEventListener('input', debounce(() => {
-    
-    if(input.value.trim() === '' ){
+form.addEventListener('input', textFromInput);
+loadMoreBtn.addEventListener('click', () => {
+    pageData += 1;
+    console.log(pageData);
+})
 
-        input.value = "";
-        countryList.innerHTML = "";
-        countryInfo.innerHTML = "";
-        
-    } else {
-        fetchCountries(input.value.trim())
-        .then((result) => {
-            
-            if(result.length > 10){
-                Notify.info(
-                    "Too many matches found. Please enter a more specific name."
-                    );
-            } else {
-                creatingMarkup(result);
-                }
-            })
-        .catch((error) => {
-            Notify.failure("Oops, there is no country with that name");
-                countryList.innerHTML = "";
-                countryInfo.innerHTML = "";
-                
-            });
-        }
-    
-}, DEBOUNCE_DELAY));
-
-
-function creatingMarkup(result) {
-    let allCountries = result.map((country) => {
-        return `<li><img src="${country.flags.svg}" width="20" height="auto" 
-                style="margin-right:5px" alt="${country.name.common}">${country.name.common}</li>`
-    }).join("");
-    
-    countryList.classList.remove("big-size-text");
-    countryInfo.innerHTML = "";
-    if(result.length === 1){
-        countryList.classList.add("big-size-text");
-        
-        const moreInfo = result.map((country) => {
-            return `<li class="more-info">
-            <p><b>Capital: </b>${country.capital}</p>
-            <p><b>Population: </b>${country.population}</p></li>
-            <p><b>Lenguages: </b>${Object.values(country.languages)}</p></li>`
-        }).join("");
-        
-        countryInfo.innerHTML = moreInfo;
-    }     
-countryList.innerHTML = allCountries;
+function textFromInput(text) {
+    queryToFind = text.target.value;    
 }
+
+form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    pageData = 1;
+    
+    axios.get(`https://pixabay.com/api/?key=27697156-dc70d52aa76d1b34fad0e72d3&q=${queryToFind}
+        &image_type=photo&orientation=horizontal&safesearch=true&page=${pageData}&per_page=4`)
+    .then(response => {
+        
+        return response.data.hits;
+        
+    })
+    .then(markup => {
+        const widthImages = (innerWidth / 4) -30;
+        console.log(widthImages);
+        
+        
+      const markupTemplate = markup.map(el => {
+            return `<div class="photo-card">
+            <a href="${el.largeImageURL}"><img src="${el.webformatURL}" class="img" alt="${el.tags}" loading="lazy" width="${widthImages}px"/></a>
+            <div class="info" style="width:${widthImages}px">
+              <p class="info-item">
+                <b>Likes</b>
+                <span>${el.likes}</span>
+              </p>
+              <p class="info-item">
+                <b>Views</b>
+                <span>${el.views}</span>
+              </p>
+              <p class="info-item">
+                <b>Comments</b>
+                <span>${el.comments}</span>
+              </p>
+              <p class="info-item">
+                <b>Downloads</b>
+                <span>${el.downloads}</span>
+              </p>
+            </div>
+          </div>`
+        }).join('');
+        
+        gallery.insertAdjacentHTML('beforeend', markupTemplate)
+
+    })
+    .catch(error => {
+        // handle error
+        console.log(error);
+    });
+
+
+})
+
+
 
 
 
