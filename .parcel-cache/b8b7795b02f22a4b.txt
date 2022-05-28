@@ -1,4 +1,4 @@
-30708
+30712
 56E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules132982184739851398 1
 126E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\browserslist\node_modules\caniuse-lite\data\features\passwordrules.js121436361000000000 0
 103E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parent-module\node_modules\callsites\readme.md121436361000000000 0
@@ -187,7 +187,7 @@
 109E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\postcss-selector-parser\dist\selectors\combinator.js121436361000000000 0
 77E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\object-copy\index.js131099692230000000 0
 118E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\babel-runtime\node_modules\core-js\library\es6\parse-float.js121436361000000000 0
-48E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist132982246062517245 1
+48E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist132982251876872920 1
 144E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@babel\helper-hoist-variables\node_modules\@babel\types\scripts\generators\ast-types.js121012626000000000 0
 83E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\acorn-globals\package.json132981999639291670 0
 142E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\library\fn\object\get-own-property-descriptors.js121436361000000000 0
@@ -254,7 +254,7 @@
 67E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\ansi-regex132981999640425833 1
 70E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\uniqs\test.js130462575640000000 0
 77E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\xmlchars\xmlchars.js121436361000000000 0
-58E:\goit\vscode-projects\dz\JS\goit-js-hw-11\src\index.html132982221586429707 0
+58E:\goit\vscode-projects\dz\JS\goit-js-hw-11\src\index.html132982250809364000 0
 85E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\fast-glob\out\adapters\fs.js121436361000000000 0
 126E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@babel\preset-env\node_modules\source-map\lib\source-map-generator.js131411568470000000 0
 121E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\list.js121436361000000000 0
@@ -273,7 +273,7 @@
 76E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\lodash\_MapCache.js121436361000000000 0
 111E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@parcel\graph\node_modules\supports-color\package.json132981999678069191 0
 118E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\posthtml-expressions\node_modules\domutils\lib\stringify.d.ts121436361000000000 0
-56E:\goit\vscode-projects\dz\JS\goit-js-hw-11\src\index.js132982243933123969 0
+56E:\goit\vscode-projects\dz\JS\goit-js-hw-11\src\index.js132982251517177780 0
 130E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\library\modules\core.object.define.js121436361000000000 0
 114E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\posthtml-expressions\node_modules\domhandler\lib\index.js121436361000000000 0
 130E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\modules\_array-species-constructor.js121436361000000000 0
@@ -314,7 +314,7 @@
 116E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\fn\symbol\observable.js121436361000000000 0
 117E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\core-js-compat\node_modules\electron-to-chromium\versions.js121436361000000000 0
 139E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\generateCertificate.js121436361000000000 0
-50E:\goit\vscode-projects\dz\JS\goit-js-hw-11\src\js132982222129839482 1
+50E:\goit\vscode-projects\dz\JS\goit-js-hw-11\src\js132982249984593179 1
 90E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\resolve\test\resolver\baz\quux.js121436361000000000 0
 88E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\function-bind\implementation.js131483794420000000 0
 152E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@babel\plugin-transform-modules-umd\node_modules\@babel\generator\lib\generators\expressions.js121012626000000000 0
@@ -378,7 +378,7 @@
 103E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\caniuse-lite\data\features\cookie-store-api.js121436361000000000 0
 77E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\caniuse-lite\LICENSE121436361000000000 0
 100E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\public-encrypt\node_modules\bn.js\lib\bn.js121436361000000000 0
-61E:\goit\vscode-projects\dz\JS\goit-js-hw-11\src\js\getData.js132982240109796541 0
+61E:\goit\vscode-projects\dz\JS\goit-js-hw-11\src\js\getData.js132982251323326769 0
 63E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\extend132981999598074714 1
 147E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@babel\plugin-transform-modules-umd\node_modules\@babel\types\lib\traverse\traverseFast.js121012626000000000 0
 82E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\toidentifier\package.json132981999489336223 0
@@ -3933,7 +3933,7 @@
 94E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\cssstyle\lib\properties\lineHeight.js121436361000000000 0
 88E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\caniuse-lite\data\regions\BE.js121436361000000000 0
 112E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\library\fn\function132981999286193837 1
-70E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.975ef6c8.js.map132982243934470218 0
+70E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.975ef6c8.js.map132982251330014608 0
 83E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\whatwg-url\lib\URL-impl.js121436361000000000 0
 99E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\lib\scope-hoisting\utils.js121436361000000000 0
 126E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@parcel\packager-svg\node_modules\@parcel\utils\test\throttle.test.js121436361000000000 0
@@ -5831,7 +5831,7 @@
 69E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\svgo\LICENSE121436361000000000 0
 115E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\fn\string\trim-left.js121436361000000000 0
 81E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\es-abstract\package.json132981999464936905 0
-67E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.77a9bc14.css132982242946024417 0
+67E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.77a9bc14.css132982251329994618 0
 74E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\svgo\package.json132981999465093158 0
 78E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\cssstyle\.eslintrc.js121436361000000000 0
 89E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\resolve\test\dotdot\abc\index.js121436361000000000 0
@@ -9460,7 +9460,7 @@
 78E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\prelude-ls\lib\Str.js130761311190000000 0
 88E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\es-abstract\2015\ToPrimitive.js121436361000000000 0
 119E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\fn\string\unescape-html.js121436361000000000 0
-71E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.77a9bc14.css.map132982242946024417 0
+71E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.77a9bc14.css.map132982251329994618 0
 85E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\posthtml-render\changelog.md121436361000000000 0
 112E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@parcel\core\node_modules\@parcel\workers\src\Handle.js121436361000000000 0
 73E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\lodash\divide.js121436361000000000 0
@@ -9661,7 +9661,7 @@
 137E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@parcel\optimizer-htmlnano\node_modules\posthtml-parser\dist\location-tracker.js121436361000000000 0
 90E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\posthtml-expressions\changelog.md121436361000000000 0
 90E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\posthtml-expressions\package.json132981999538598566 0
-59E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.html132982246062337446 0
+59E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.html132982251876708204 0
 77E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\lodash\curryRight.js121436361000000000 0
 87E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\posthtml-expressions\readme.md121436361000000000 0
 88E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\caniuse-lite\data\regions\LK.js121436361000000000 0
@@ -11796,7 +11796,7 @@
 113E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\modules\core.dict.js121436361000000000 0
 121E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\modules\core.get-iterator.js121436361000000000 0
 89E:\goit\vscode-projects\dz\JS\goit-js-hw-11\.cache\98\2e286c31f472c4dbc27e4e8402d10d.json132981513820405728 0
-66E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.975ef6c8.js132982243934460174 0
+66E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.975ef6c8.js132982251329994618 0
 123E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\parcel-bundler\node_modules\core-js\modules\core.object.classof.js121436361000000000 0
 132E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@parcel\runtime-browser-hmr\node_modules\@parcel\utils\test\urlJoin.test.js121436361000000000 0
 93E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\cssnano-util-get-match\dist\index.js131751755840000000 0
@@ -21352,6 +21352,7 @@
 120E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@parcel\runtime-service-worker\node_modules\ansi-styles\license121436361000000000 0
 111E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js121436361000000000 0
 105E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-letter-spacing.js121436361000000000 0
+70E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.2a8975e3.js.map132982251876778332 0
 104E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-logical-props.js121436361000000000 0
 136E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@babel\preset-env\node_modules\@babel\types\lib\builders\react\buildChildren.js121012626000000000 0
 133E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\@parcel\optimizer-terser\node_modules\source-map\lib\source-map-generator.js131838607130000000 0
@@ -30572,6 +30573,9 @@
 71E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\.bin\uncss.ps1132981999697981320 0
 66E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\.bin\uuid132981999697468550 0
 71E:\goit\vscode-projects\dz\JS\goit-js-hw-11\node_modules\.bin\which.ps1132981999697489542 0
+66E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.175f6a22.js132982251876708204 0
+70E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.175f6a22.js.map132982251876778332 0
+66E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.2a8975e3.js132982251876708204 0
 66E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.6187f8e0.js132982218775434089 0
 66E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.d4c07426.js132982246062337446 0
 67E:\goit\vscode-projects\dz\JS\goit-js-hw-11\dist\index.ee3a4398.css132982218775434089 0

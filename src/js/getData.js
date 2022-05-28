@@ -1,4 +1,5 @@
 import axios from 'axios';
+import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 async function uploadPhoto(queryToFind, pageData, perPage) {
     try {
